@@ -26,11 +26,11 @@ The process is about using8610 participants in the covid_mental_health_train.csv
 
 <a name="Approaches"></a>
 # Approach
-<li> linear Regression  <\li>
-  <li> Logistic regression <\li>
-    <li> SVM <\li>
-      <li> Xgboost <\li>
-        <li> Decision Tree <\li>
+<li> linear Regression  </li>
+  <li> Logistic regression </li>
+    <li> SVM </li>
+      <li> Xgboost </li>
+        <li> Decision Tree </li>
 
 # Credits 
 
