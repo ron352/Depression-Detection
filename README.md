@@ -26,11 +26,11 @@ The process is about using8610 participants in the covid_mental_health_train.csv
 
 <a name="Approaches"></a>
 # Approach
-*linear Regression 
-*Logistic regression
-*SVM
-*Xgboost
-*Decision Tree
+<li> linear Regression  <\li>
+  <li> Logistic regression <\li>
+    <li> SVM <\li>
+      <li> Xgboost <\li>
+        <li> Decision Tree <\li>
 
 # Credits 
 
@@ -49,7 +49,7 @@ The process is about using8610 participants in the covid_mental_health_train.csv
       Dhaka, Bangladesh
     </td>
     <td> 
-      <b>Tabia Tajnin Prema/b> <br>
+      <b>Tabia Tajnin Prema </b> <br>
       B. Sc. in Computer Science <br>
       Jahangirnagar University <br>
       Dhaka, Bangladesh
