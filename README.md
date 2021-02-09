@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [ Description ](#description)
-2. [ Build ](#built with) 
+2. [ Build ](#build) 
 3. [ Approach](#Approaches) 
 5. [ Credits ](#Credits)
 6. [ Conclusion ](#conclusion) 
@@ -20,7 +20,7 @@ The covid_mental_health_test.csv dataset contains similar information but does n
 
 The process is about using8610 participants in the covid_mental_health_train.csv data, predict whether the other 2723 participants found in covid_mental_health_test.csv were diagnosed with depression or not.
 
-<a name="built with"></a>
+<a name="build"></a>
 # Build
 *[Jupyter notebook](https://jupyter.org/)
 
