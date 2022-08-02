@@ -1,4 +1,4 @@
-# AdaWill: Depression-Detection-using-Machine-Learning
+# AdaWill: Depression-Prediction-using-Machine-Learning
 
 
 ## Table of Contents
